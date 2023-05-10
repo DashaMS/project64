@@ -42,6 +42,7 @@ window.addEventListener('DOMContentLoaded', function () {
     }
   });
   
+  
     /* додавання року в таймері
 
   const years = document.createElement('year');
