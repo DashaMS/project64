@@ -41,6 +41,7 @@ window.addEventListener('DOMContentLoaded', function () {
       });
     }
   });
+  
 
   /* додавання року в таймері
 
